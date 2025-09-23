@@ -1,0 +1,12 @@
+2025-06-30 20:25:17,215 [main] INFO Logg4JLogging - opened browser instance
+2025-06-30 20:25:17,348 [main] INFO Logg4JLogging - implicite wait given
+2025-06-30 20:25:18,640 [main] INFO Logg4JLogging - application opened
+2025-06-30 20:25:18,769 [main] INFO Logg4JLogging - Element diplayed
+2025-06-30 20:28:19,536 [main] INFO Logg4JLogging - opened browser instance
+2025-06-30 20:28:19,660 [main] INFO Logg4JLogging - implicite wait given
+2025-06-30 20:28:21,281 [main] INFO Logg4JLogging - application opened
+2025-06-30 20:28:21,387 [main] INFO Logg4JLogging - Element Found
+2025-06-30 20:28:39,536 [main] INFO Logg4JLogging - opened browser instance
+2025-06-30 20:28:39,740 [main] INFO Logg4JLogging - implicite wait given
+2025-06-30 20:28:40,848 [main] INFO Logg4JLogging - application opened
+2025-06-30 20:29:10,957 [main] INFO Logg4JLogging - Element not found
