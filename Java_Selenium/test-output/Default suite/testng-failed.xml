@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Marvellous.Assertion3">
+      <class name="Marvellous.SeleniumGrid">
         <methods>
-          <include name="TestCase2"/>
+          <include name="Login" invocation-numbers="0 1"/>
         </methods>
-      </class> <!-- Marvellous.Assertion3 -->
+      </class> <!-- Marvellous.SeleniumGrid -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
